@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "name": "Trance \u2014 Palpatine Recursion",
+    "author": "Gord for Tyler (Eternal)"
+  },
+  "leader": {
+    "id": "SOR_006",
+    "count": 1
+  },
+  "base": {
+    "id": "LAW_028",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "ASH_116",
+      "count": 3
+    },
+    {
+      "id": "SOR_108",
+      "count": 3
+    },
+    {
+      "id": "TWI_079",
+      "count": 3
+    },
+    {
+      "id": "SOR_204",
+      "count": 3
+    },
+    {
+      "id": "TWI_208",
+      "count": 3
+    },
+    {
+      "id": "SHD_115",
+      "count": 3
+    },
+    {
+      "id": "ASH_097",
+      "count": 2
+    },
+    {
+      "id": "LAW_238",
+      "count": 3
+    },
+    {
+      "id": "LAW_261",
+      "count": 3
+    },
+    {
+      "id": "TWI_086",
+      "count": 2
+    },
+    {
+      "id": "HMW_204",
+      "count": 2
+    },
+    {
+      "id": "ASH_104",
+      "count": 3
+    },
+    {
+      "id": "SHD_094",
+      "count": 3
+    },
+    {
+      "id": "TWI_189",
+      "count": 3
+    },
+    {
+      "id": "ASH_247",
+      "count": 2
+    },
+    {
+      "id": "TS26_57",
+      "count": 3
+    },
+    {
+      "id": "JTL_121",
+      "count": 3
+    },
+    {
+      "id": "TWI_226",
+      "count": 3
+    }
+  ],
+  "sideboard": []
+}

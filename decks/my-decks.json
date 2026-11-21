@@ -1,0 +1,26 @@
+[
+  {
+    "id": "my:vader-coaxium-mine",
+    "name": "Vader — Coaxium Mine",
+    "file": "vader-deck-holoscan.json",
+    "source": "Tyler (pre-loaded)"
+  },
+  {
+    "id": "my:jabba-daimyo-s-palace",
+    "name": "Jabba — Daimyo's Palace",
+    "file": "jabba-deck-holoscan.json",
+    "source": "Tyler (pre-loaded)"
+  },
+  {
+    "id": "my:trance-palpatine-recursion",
+    "name": "Trance — Palpatine Recursion",
+    "file": "trance-deck-holoscan.json",
+    "source": "Tyler (pre-loaded)"
+  },
+  {
+    "id": "my:rites-thrawn-death-payoffs",
+    "name": "Rites — Thrawn Death Payoffs",
+    "file": "rites-deck-holoscan.json",
+    "source": "Tyler (pre-loaded)"
+  }
+]

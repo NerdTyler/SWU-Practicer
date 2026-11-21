@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "name": "Jabba the Hutt \u2014 Credit Deck",
+    "author": "Tyler Berberian"
+  },
+  "leader": {
+    "id": "LAW_015",
+    "count": 1
+  },
+  "base": {
+    "id": "LAW_020",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "LAW_218",
+      "count": 1
+    },
+    {
+      "id": "JTL_057",
+      "count": 1
+    },
+    {
+      "id": "LAW_247",
+      "count": 1
+    },
+    {
+      "id": "LAW_130",
+      "count": 1
+    },
+    {
+      "id": "JTL_215",
+      "count": 1
+    },
+    {
+      "id": "LAW_228",
+      "count": 1
+    },
+    {
+      "id": "LAW_232",
+      "count": 1
+    },
+    {
+      "id": "LAW_213",
+      "count": 1
+    },
+    {
+      "id": "JTL_052",
+      "count": 1
+    },
+    {
+      "id": "LAW_106",
+      "count": 1
+    },
+    {
+      "id": "LAW_170",
+      "count": 1
+    },
+    {
+      "id": "JTL_230",
+      "count": 1
+    },
+    {
+      "id": "JTL_040",
+      "count": 1
+    },
+    {
+      "id": "LAW_099",
+      "count": 1
+    },
+    {
+      "id": "LAW_239",
+      "count": 1
+    },
+    {
+      "id": "LAW_225",
+      "count": 2
+    },
+    {
+      "id": "LAW_100",
+      "count": 1
+    },
+    {
+      "id": "LAW_131",
+      "count": 1
+    },
+    {
+      "id": "LAW_124",
+      "count": 1
+    },
+    {
+      "id": "LAW_180",
+      "count": 1
+    },
+    {
+      "id": "LAW_075",
+      "count": 1
+    },
+    {
+      "id": "LAW_087",
+      "count": 1
+    },
+    {
+      "id": "LAW_235",
+      "count": 1
+    },
+    {
+      "id": "LAW_143",
+      "count": 1
+    },
+    {
+      "id": "LAW_146",
+      "count": 1
+    },
+    {
+      "id": "LAW_209",
+      "count": 1
+    },
+    {
+      "id": "LAW_230",
+      "count": 1
+    },
+    {
+      "id": "LAW_073",
+      "count": 1
+    },
+    {
+      "id": "JTL_100",
+      "count": 1
+    },
+    {
+      "id": "LAW_222",
+      "count": 1
+    },
+    {
+      "id": "JTL_153",
+      "count": 1
+    },
+    {
+      "id": "LAW_115",
+      "count": 1
+    },
+    {
+      "id": "LAW_226",
+      "count": 1
+    },
+    {
+      "id": "LAW_043",
+      "count": 1
+    },
+    {
+      "id": "LAW_077",
+      "count": 1
+    },
+    {
+      "id": "LAW_122",
+      "count": 1
+    },
+    {
+      "id": "JTL_220",
+      "count": 1
+    },
+    {
+      "id": "LAW_187",
+      "count": 1
+    },
+    {
+      "id": "LAW_081",
+      "count": 1
+    },
+    {
+      "id": "JTL_190",
+      "count": 1
+    },
+    {
+      "id": "LAW_246",
+      "count": 1
+    },
+    {
+      "id": "LAW_229",
+      "count": 1
+    },
+    {
+      "id": "LAW_092",
+      "count": 1
+    },
+    {
+      "id": "LAW_244",
+      "count": 1
+    },
+    {
+      "id": "LAW_091",
+      "count": 1
+    },
+    {
+      "id": "LAW_098",
+      "count": 1
+    },
+    {
+      "id": "LAW_128",
+      "count": 1
+    },
+    {
+      "id": "LAW_248",
+      "count": 1
+    },
+    {
+      "id": "JTL_214",
+      "count": 1
+    }
+  ],
+  "sideboard": []
+}

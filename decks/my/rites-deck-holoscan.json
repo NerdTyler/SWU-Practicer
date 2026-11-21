@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "name": "Rites \u2014 Thrawn Death Payoffs",
+    "author": "Gord for Tyler (Eternal)"
+  },
+  "leader": {
+    "id": "JTL_002",
+    "count": 1
+  },
+  "base": {
+    "id": "LAW_027",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "JTL_132",
+      "count": 3
+    },
+    {
+      "id": "LAW_097",
+      "count": 3
+    },
+    {
+      "id": "SEC_055",
+      "count": 3
+    },
+    {
+      "id": "SEC_132",
+      "count": 3
+    },
+    {
+      "id": "LAW_189",
+      "count": 3
+    },
+    {
+      "id": "JTL_032",
+      "count": 3
+    },
+    {
+      "id": "SHD_058",
+      "count": 3
+    },
+    {
+      "id": "SOR_060",
+      "count": 3
+    },
+    {
+      "id": "JTL_162",
+      "count": 3
+    },
+    {
+      "id": "TWI_033",
+      "count": 3
+    },
+    {
+      "id": "SEC_136",
+      "count": 3
+    },
+    {
+      "id": "JTL_169",
+      "count": 2
+    },
+    {
+      "id": "SHD_053",
+      "count": 3
+    },
+    {
+      "id": "LAW_201",
+      "count": 2
+    },
+    {
+      "id": "SEC_039",
+      "count": 2
+    },
+    {
+      "id": "ASH_247",
+      "count": 3
+    },
+    {
+      "id": "TWI_238",
+      "count": 2
+    },
+    {
+      "id": "SOR_078",
+      "count": 3
+    }
+  ],
+  "sideboard": []
+}

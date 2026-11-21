@@ -1,0 +1,1639 @@
+{
+  "generatedAt": "2026-11-21T05:33:58.773Z",
+  "source": "sw-unlimited-db.com tournament meta (see community-decks.md)",
+  "note": "Practice opponents for the offline app. Every deck here validated: 1 leader, 1 base, exactly 50 main cards, sideboard <= 10. Some lists stored on the source site run over 50 main cards (the site flags them legal; the game engine would refuse them) — those are recorded under \"excluded\" with the reason, never silently trimmed. Re-resolved by refresh-community-decks.mjs on each update run.",
+  "decks": [
+    {
+      "name": "Wicket, Few Greater Battles to Fight - Imperial Command Complex",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/172244",
+      "deck": {
+        "metadata": {
+          "name": "Wicket, Few Greater Battles to Fight - Imperial Command Complex",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "HMW_014",
+          "count": 1
+        },
+        "base": {
+          "id": "LAW_024",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "HMW_115",
+            "count": 3
+          },
+          {
+            "id": "SEC_104",
+            "count": 1
+          },
+          {
+            "id": "ASH_034",
+            "count": 3
+          },
+          {
+            "id": "ASH_168",
+            "count": 3
+          },
+          {
+            "id": "SEC_148",
+            "count": 3
+          },
+          {
+            "id": "JTL_151",
+            "count": 2
+          },
+          {
+            "id": "JTL_153",
+            "count": 3
+          },
+          {
+            "id": "ASH_154",
+            "count": 3
+          },
+          {
+            "id": "SEC_046",
+            "count": 1
+          },
+          {
+            "id": "SEC_101",
+            "count": 2
+          },
+          {
+            "id": "ASH_116",
+            "count": 3
+          },
+          {
+            "id": "HMW_254",
+            "count": 3
+          },
+          {
+            "id": "JTL_096",
+            "count": 3
+          },
+          {
+            "id": "HMW_130",
+            "count": 3
+          },
+          {
+            "id": "LAW_078",
+            "count": 3
+          },
+          {
+            "id": "HMW_175",
+            "count": 3
+          },
+          {
+            "id": "HMW_126",
+            "count": 3
+          },
+          {
+            "id": "HMW_045",
+            "count": 3
+          },
+          {
+            "id": "JTL_250",
+            "count": 2
+          }
+        ],
+        "sideboard": [
+          {
+            "id": "SEC_104",
+            "count": 2
+          },
+          {
+            "id": "JTL_112",
+            "count": 2
+          },
+          {
+            "id": "LAW_191",
+            "count": 2
+          },
+          {
+            "id": "ASH_171",
+            "count": 2
+          },
+          {
+            "id": "ASH_163",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Director Krennic, Amidst My Achievement - Great Grass Plains",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/170971",
+      "deck": {
+        "metadata": {
+          "name": "Director Krennic, Amidst My Achievement - Great Grass Plains",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "LAW_008",
+          "count": 1
+        },
+        "base": {
+          "id": "HMW_020",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "ASH_053",
+            "count": 3
+          },
+          {
+            "id": "JTL_121",
+            "count": 1
+          },
+          {
+            "id": "LAW_101",
+            "count": 3
+          },
+          {
+            "id": "LOF_059",
+            "count": 3
+          },
+          {
+            "id": "ASH_097",
+            "count": 3
+          },
+          {
+            "id": "HMW_110",
+            "count": 1
+          },
+          {
+            "id": "JTL_119",
+            "count": 3
+          },
+          {
+            "id": "ASH_052",
+            "count": 3
+          },
+          {
+            "id": "LOF_091",
+            "count": 3
+          },
+          {
+            "id": "ASH_079",
+            "count": 3
+          },
+          {
+            "id": "ASH_116",
+            "count": 3
+          },
+          {
+            "id": "ASH_048",
+            "count": 3
+          },
+          {
+            "id": "LAW_159",
+            "count": 3
+          },
+          {
+            "id": "LAW_039",
+            "count": 3
+          },
+          {
+            "id": "LAW_097",
+            "count": 3
+          },
+          {
+            "id": "JTL_033",
+            "count": 3
+          },
+          {
+            "id": "JTL_043",
+            "count": 3
+          },
+          {
+            "id": "JTL_032",
+            "count": 3
+          }
+        ],
+        "sideboard": [
+          {
+            "id": "SEC_038",
+            "count": 2
+          },
+          {
+            "id": "JTL_121",
+            "count": 1
+          },
+          {
+            "id": "JTL_041",
+            "count": 1
+          },
+          {
+            "id": "ASH_102",
+            "count": 1
+          },
+          {
+            "id": "HMW_150",
+            "count": 2
+          },
+          {
+            "id": "LAW_044",
+            "count": 1
+          },
+          {
+            "id": "SEC_078",
+            "count": 1
+          },
+          {
+            "id": "LAW_149",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ahsoka Tano, Trust in the Force - Mos Eisley",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/169769",
+      "deck": {
+        "metadata": {
+          "name": "Ahsoka Tano, Trust in the Force - Mos Eisley",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "ASH_009",
+          "count": 1
+        },
+        "base": {
+          "id": "JTL_030",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "JTL_100",
+            "count": 3
+          },
+          {
+            "id": "LOF_191",
+            "count": 3
+          },
+          {
+            "id": "HMW_254",
+            "count": 3
+          },
+          {
+            "id": "HMW_208",
+            "count": 3
+          },
+          {
+            "id": "ASH_248",
+            "count": 3
+          },
+          {
+            "id": "ASH_201",
+            "count": 3
+          },
+          {
+            "id": "SEC_111",
+            "count": 3
+          },
+          {
+            "id": "LAW_067",
+            "count": 3
+          },
+          {
+            "id": "JTL_217",
+            "count": 2
+          },
+          {
+            "id": "JTL_249",
+            "count": 1
+          },
+          {
+            "id": "JTL_221",
+            "count": 3
+          },
+          {
+            "id": "HMW_213",
+            "count": 3
+          },
+          {
+            "id": "SEC_204",
+            "count": 1
+          },
+          {
+            "id": "SEC_098",
+            "count": 2
+          },
+          {
+            "id": "SEC_099",
+            "count": 3
+          },
+          {
+            "id": "ASH_222",
+            "count": 2
+          },
+          {
+            "id": "ASH_110",
+            "count": 3
+          },
+          {
+            "id": "JTL_103",
+            "count": 2
+          },
+          {
+            "id": "JTL_203",
+            "count": 3
+          },
+          {
+            "id": "SEC_101",
+            "count": 1
+          }
+        ],
+        "sideboard": [
+          {
+            "id": "LAW_246",
+            "count": 2
+          },
+          {
+            "id": "JTL_217",
+            "count": 1
+          },
+          {
+            "id": "HMW_136",
+            "count": 2
+          },
+          {
+            "id": "SEC_204",
+            "count": 2
+          },
+          {
+            "id": "JTL_235",
+            "count": 2
+          },
+          {
+            "id": "IBH_052",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mother Talzin, Power Through Magick - Mystic Monastery",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/169816",
+      "deck": {
+        "metadata": {
+          "name": "Mother Talzin, Power Through Magick - Mystic Monastery",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "LOF_002",
+          "count": 1
+        },
+        "base": {
+          "id": "LOF_022",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "LAW_129",
+            "count": 3
+          },
+          {
+            "id": "HMW_104",
+            "count": 3
+          },
+          {
+            "id": "HMW_038",
+            "count": 3
+          },
+          {
+            "id": "ASH_077",
+            "count": 1
+          },
+          {
+            "id": "HMW_103",
+            "count": 3
+          },
+          {
+            "id": "HMW_111",
+            "count": 1
+          },
+          {
+            "id": "LAW_039",
+            "count": 3
+          },
+          {
+            "id": "SEC_111",
+            "count": 3
+          },
+          {
+            "id": "LOF_091",
+            "count": 3
+          },
+          {
+            "id": "SEC_082",
+            "count": 3
+          },
+          {
+            "id": "LOF_231",
+            "count": 3
+          },
+          {
+            "id": "LOF_035",
+            "count": 3
+          },
+          {
+            "id": "LAW_135",
+            "count": 3
+          },
+          {
+            "id": "HMW_130",
+            "count": 2
+          },
+          {
+            "id": "SEC_028",
+            "count": 3
+          },
+          {
+            "id": "LOF_061",
+            "count": 2
+          },
+          {
+            "id": "LAW_037",
+            "count": 3
+          },
+          {
+            "id": "HMW_252",
+            "count": 2
+          },
+          {
+            "id": "LOF_031",
+            "count": 3
+          }
+        ],
+        "sideboard": [
+          {
+            "id": "SEC_038",
+            "count": 2
+          },
+          {
+            "id": "LAW_127",
+            "count": 2
+          },
+          {
+            "id": "ASH_077",
+            "count": 2
+          },
+          {
+            "id": "HMW_111",
+            "count": 1
+          },
+          {
+            "id": "ASH_090",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lando Calrissian, Full Sabacc - Dune Sea",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/172279",
+      "deck": {
+        "metadata": {
+          "name": "Lando Calrissian, Full Sabacc - Dune Sea",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "LAW_018",
+          "count": 1
+        },
+        "base": {
+          "id": "HMW_019",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "ASH_236",
+            "count": 2
+          },
+          {
+            "id": "HMW_208",
+            "count": 3
+          },
+          {
+            "id": "LAW_223",
+            "count": 1
+          },
+          {
+            "id": "LAW_246",
+            "count": 3
+          },
+          {
+            "id": "ASH_044",
+            "count": 2
+          },
+          {
+            "id": "IBH_052",
+            "count": 2
+          },
+          {
+            "id": "LAW_237",
+            "count": 2
+          },
+          {
+            "id": "SEC_051",
+            "count": 3
+          },
+          {
+            "id": "HMW_218",
+            "count": 2
+          },
+          {
+            "id": "SEC_211",
+            "count": 3
+          },
+          {
+            "id": "LAW_224",
+            "count": 2
+          },
+          {
+            "id": "LAW_229",
+            "count": 3
+          },
+          {
+            "id": "LOF_200",
+            "count": 2
+          },
+          {
+            "id": "ASH_043",
+            "count": 3
+          },
+          {
+            "id": "HMW_232",
+            "count": 2
+          },
+          {
+            "id": "SEC_204",
+            "count": 2
+          },
+          {
+            "id": "JTL_203",
+            "count": 3
+          },
+          {
+            "id": "JTL_221",
+            "count": 3
+          },
+          {
+            "id": "HMW_234",
+            "count": 3
+          },
+          {
+            "id": "HMW_211",
+            "count": 3
+          },
+          {
+            "id": "SEC_209",
+            "count": 1
+          }
+        ],
+        "sideboard": [
+          {
+            "id": "ASH_222",
+            "count": 2
+          },
+          {
+            "id": "LAW_221",
+            "count": 2
+          },
+          {
+            "id": "SEC_078",
+            "count": 3
+          },
+          {
+            "id": "SEC_204",
+            "count": 1
+          },
+          {
+            "id": "LOF_199",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Boba Fett, Any Methods Necessary - Lake Country",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/172123",
+      "deck": {
+        "metadata": {
+          "name": "Boba Fett, Any Methods Necessary - Lake Country",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "JTL_009",
+          "count": 1
+        },
+        "base": {
+          "id": "JTL_031",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "SEC_163",
+            "count": 2
+          },
+          {
+            "id": "JTL_133",
+            "count": 2
+          },
+          {
+            "id": "LAW_173",
+            "count": 3
+          },
+          {
+            "id": "SEC_133",
+            "count": 3
+          },
+          {
+            "id": "JTL_237",
+            "count": 3
+          },
+          {
+            "id": "LAW_174",
+            "count": 3
+          },
+          {
+            "id": "JTL_162",
+            "count": 3
+          },
+          {
+            "id": "JTL_140",
+            "count": 3
+          },
+          {
+            "id": "JTL_240",
+            "count": 3
+          },
+          {
+            "id": "HMW_185",
+            "count": 2
+          },
+          {
+            "id": "SEC_171",
+            "count": 1
+          },
+          {
+            "id": "ASH_146",
+            "count": 2
+          },
+          {
+            "id": "JTL_170",
+            "count": 1
+          },
+          {
+            "id": "SEC_172",
+            "count": 3
+          },
+          {
+            "id": "HMW_159",
+            "count": 2
+          },
+          {
+            "id": "JTL_143",
+            "count": 2
+          },
+          {
+            "id": "JTL_175",
+            "count": 1
+          },
+          {
+            "id": "JTL_180",
+            "count": 2
+          },
+          {
+            "id": "LAW_208",
+            "count": 2
+          },
+          {
+            "id": "SEC_182",
+            "count": 2
+          },
+          {
+            "id": "SEC_183",
+            "count": 3
+          },
+          {
+            "id": "JTL_181",
+            "count": 2
+          }
+        ],
+        "sideboard": [
+          {
+            "id": "SEC_163",
+            "count": 1
+          },
+          {
+            "id": "JTL_175",
+            "count": 1
+          },
+          {
+            "id": "LOF_177",
+            "count": 2
+          },
+          {
+            "id": "LAW_191",
+            "count": 2
+          },
+          {
+            "id": "JTL_164",
+            "count": 2
+          },
+          {
+            "id": "JTL_181",
+            "count": 1
+          },
+          {
+            "id": "JTL_143",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kazuda Xiono, Best Pilot in the Galaxy - Contested Caverns",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/171626",
+      "deck": {
+        "metadata": {
+          "name": "Kazuda Xiono, Best Pilot in the Galaxy - Contested Caverns",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "JTL_018",
+          "count": 1
+        },
+        "base": {
+          "id": "LAW_025",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "JTL_245",
+            "count": 3
+          },
+          {
+            "id": "LAW_202",
+            "count": 2
+          },
+          {
+            "id": "JTL_231",
+            "count": 3
+          },
+          {
+            "id": "JTL_156",
+            "count": 3
+          },
+          {
+            "id": "HMW_216",
+            "count": 2
+          },
+          {
+            "id": "HMW_209",
+            "count": 3
+          },
+          {
+            "id": "JTL_198",
+            "count": 3
+          },
+          {
+            "id": "ASH_153",
+            "count": 3
+          },
+          {
+            "id": "LOF_192",
+            "count": 3
+          },
+          {
+            "id": "JTL_177",
+            "count": 2
+          },
+          {
+            "id": "JTL_249",
+            "count": 3
+          },
+          {
+            "id": "JTL_221",
+            "count": 3
+          },
+          {
+            "id": "ASH_253",
+            "count": 3
+          },
+          {
+            "id": "SEC_204",
+            "count": 2
+          },
+          {
+            "id": "ASH_222",
+            "count": 2
+          },
+          {
+            "id": "JTL_103",
+            "count": 3
+          },
+          {
+            "id": "JTL_203",
+            "count": 3
+          },
+          {
+            "id": "SEC_207",
+            "count": 2
+          },
+          {
+            "id": "LAW_223",
+            "count": 2
+          }
+        ],
+        "sideboard": [
+          {
+            "id": "JTL_207",
+            "count": 3
+          },
+          {
+            "id": "SEC_163",
+            "count": 2
+          },
+          {
+            "id": "LAW_195",
+            "count": 2
+          },
+          {
+            "id": "ASH_222",
+            "count": 1
+          },
+          {
+            "id": "IBH_052",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Darth Vader, Victor Squadron Leader - Kyyyalstaad Swamp",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/171907",
+      "deck": {
+        "metadata": {
+          "name": "Darth Vader, Victor Squadron Leader - Kyyyalstaad Swamp",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "JTL_006",
+          "count": 1
+        },
+        "base": {
+          "id": "HMW_031",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "JTL_217",
+            "count": 2
+          },
+          {
+            "id": "IBH_052",
+            "count": 2
+          },
+          {
+            "id": "LAW_211",
+            "count": 3
+          },
+          {
+            "id": "SEC_185",
+            "count": 3
+          },
+          {
+            "id": "JTL_085",
+            "count": 3
+          },
+          {
+            "id": "SEC_186",
+            "count": 3
+          },
+          {
+            "id": "JTL_081",
+            "count": 3
+          },
+          {
+            "id": "LOF_091",
+            "count": 2
+          },
+          {
+            "id": "SEC_082",
+            "count": 3
+          },
+          {
+            "id": "HMW_136",
+            "count": 3
+          },
+          {
+            "id": "JTL_212",
+            "count": 3
+          },
+          {
+            "id": "LAW_217",
+            "count": 3
+          },
+          {
+            "id": "ASH_117",
+            "count": 3
+          },
+          {
+            "id": "JTL_115",
+            "count": 3
+          },
+          {
+            "id": "JTL_221",
+            "count": 3
+          },
+          {
+            "id": "SEC_189",
+            "count": 3
+          },
+          {
+            "id": "SEC_213",
+            "count": 3
+          },
+          {
+            "id": "HMW_203",
+            "count": 2
+          }
+        ],
+        "sideboard": [
+          {
+            "id": "HMW_204",
+            "count": 2
+          },
+          {
+            "id": "ASH_194",
+            "count": 2
+          },
+          {
+            "id": "IBH_052",
+            "count": 1
+          },
+          {
+            "id": "ASH_199",
+            "count": 2
+          },
+          {
+            "id": "HMW_203",
+            "count": 1
+          },
+          {
+            "id": "ASH_192",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dedra Meero, Not Wasting Time - Colossus",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/172278",
+      "deck": {
+        "metadata": {
+          "name": "Dedra Meero, Not Wasting Time - Colossus",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "SEC_010",
+          "count": 1
+        },
+        "base": {
+          "id": "JTL_021",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "SEC_038",
+            "count": 3
+          },
+          {
+            "id": "ASH_053",
+            "count": 3
+          },
+          {
+            "id": "LAW_191",
+            "count": 2
+          },
+          {
+            "id": "LAW_133",
+            "count": 3
+          },
+          {
+            "id": "JTL_041",
+            "count": 1
+          },
+          {
+            "id": "JTL_143",
+            "count": 3
+          },
+          {
+            "id": "SEC_037",
+            "count": 3
+          },
+          {
+            "id": "ASH_048",
+            "count": 3
+          },
+          {
+            "id": "JTL_181",
+            "count": 3
+          },
+          {
+            "id": "ASH_049",
+            "count": 2
+          },
+          {
+            "id": "SEC_078",
+            "count": 2
+          },
+          {
+            "id": "LAW_217",
+            "count": 2
+          },
+          {
+            "id": "LAW_044",
+            "count": 3
+          },
+          {
+            "id": "JTL_043",
+            "count": 3
+          },
+          {
+            "id": "ASH_030",
+            "count": 3
+          },
+          {
+            "id": "SEC_180",
+            "count": 3
+          },
+          {
+            "id": "LAW_208",
+            "count": 3
+          },
+          {
+            "id": "LAW_132",
+            "count": 2
+          },
+          {
+            "id": "ASH_148",
+            "count": 3
+          }
+        ],
+        "sideboard": [
+          {
+            "id": "HMW_042",
+            "count": 1
+          },
+          {
+            "id": "HMW_204",
+            "count": 1
+          },
+          {
+            "id": "JTL_041",
+            "count": 1
+          },
+          {
+            "id": "LAW_191",
+            "count": 1
+          },
+          {
+            "id": "JTL_080",
+            "count": 1
+          },
+          {
+            "id": "LOF_034",
+            "count": 2
+          },
+          {
+            "id": "SEC_078",
+            "count": 1
+          },
+          {
+            "id": "LAW_217",
+            "count": 1
+          },
+          {
+            "id": "LAW_132",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Darth Maul, Sith Revealed - Nightsister Lair",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/172103",
+      "deck": {
+        "metadata": {
+          "name": "Darth Maul, Sith Revealed - Nightsister Lair",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "LOF_009",
+          "count": 1
+        },
+        "base": {
+          "id": "LOF_020",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "SEC_038",
+            "count": 2
+          },
+          {
+            "id": "ASH_053",
+            "count": 1
+          },
+          {
+            "id": "JTL_144",
+            "count": 2
+          },
+          {
+            "id": "SEC_163",
+            "count": 1
+          },
+          {
+            "id": "LOF_261",
+            "count": 1
+          },
+          {
+            "id": "LOF_067",
+            "count": 1
+          },
+          {
+            "id": "LOF_079",
+            "count": 2
+          },
+          {
+            "id": "JTL_143",
+            "count": 2
+          },
+          {
+            "id": "ASH_146",
+            "count": 2
+          },
+          {
+            "id": "LAW_044",
+            "count": 1
+          },
+          {
+            "id": "LOF_231",
+            "count": 3
+          },
+          {
+            "id": "LOF_035",
+            "count": 3
+          },
+          {
+            "id": "ASH_147",
+            "count": 1
+          },
+          {
+            "id": "LOF_061",
+            "count": 3
+          },
+          {
+            "id": "HMW_039",
+            "count": 2
+          },
+          {
+            "id": "SEC_078",
+            "count": 2
+          },
+          {
+            "id": "JTL_043",
+            "count": 3
+          },
+          {
+            "id": "LOF_070",
+            "count": 2
+          },
+          {
+            "id": "HMW_159",
+            "count": 1
+          },
+          {
+            "id": "LOF_129",
+            "count": 3
+          },
+          {
+            "id": "ASH_030",
+            "count": 3
+          },
+          {
+            "id": "ASH_078",
+            "count": 2
+          },
+          {
+            "id": "ASH_148",
+            "count": 2
+          },
+          {
+            "id": "SEC_028",
+            "count": 2
+          },
+          {
+            "id": "LOF_031",
+            "count": 3
+          }
+        ],
+        "sideboard": [
+          {
+            "id": "SEC_163",
+            "count": 1
+          },
+          {
+            "id": "LAW_191",
+            "count": 2
+          },
+          {
+            "id": "JTL_078",
+            "count": 2
+          },
+          {
+            "id": "JTL_143",
+            "count": 1
+          },
+          {
+            "id": "LOF_067",
+            "count": 1
+          },
+          {
+            "id": "LAW_044",
+            "count": 1
+          },
+          {
+            "id": "JTL_181",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Han Solo, Never Tell Me the Odds - Kryze Castle",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/170943",
+      "deck": {
+        "metadata": {
+          "name": "Han Solo, Never Tell Me the Odds - Kryze Castle",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "JTL_017",
+          "count": 1
+        },
+        "base": {
+          "id": "ASH_022",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "SEC_213",
+            "count": 3
+          },
+          {
+            "id": "HMW_208",
+            "count": 3
+          },
+          {
+            "id": "ASH_201",
+            "count": 3
+          },
+          {
+            "id": "ASH_117",
+            "count": 3
+          },
+          {
+            "id": "JTL_212",
+            "count": 3
+          },
+          {
+            "id": "SEC_214",
+            "count": 2
+          },
+          {
+            "id": "HMW_216",
+            "count": 1
+          },
+          {
+            "id": "JTL_215",
+            "count": 3
+          },
+          {
+            "id": "HMW_136",
+            "count": 3
+          },
+          {
+            "id": "JTL_249",
+            "count": 3
+          },
+          {
+            "id": "JTL_221",
+            "count": 3
+          },
+          {
+            "id": "ASH_253",
+            "count": 3
+          },
+          {
+            "id": "HMW_236",
+            "count": 2
+          },
+          {
+            "id": "SEC_176",
+            "count": 2
+          },
+          {
+            "id": "ASH_110",
+            "count": 3
+          },
+          {
+            "id": "JTL_103",
+            "count": 2
+          },
+          {
+            "id": "JTL_203",
+            "count": 3
+          },
+          {
+            "id": "LAW_223",
+            "count": 2
+          },
+          {
+            "id": "HMW_049",
+            "count": 3
+          }
+        ],
+        "sideboard": [
+          {
+            "id": "HMW_221",
+            "count": 2
+          },
+          {
+            "id": "JTL_207",
+            "count": 2
+          },
+          {
+            "id": "JTL_217",
+            "count": 2
+          },
+          {
+            "id": "HMW_236",
+            "count": 1
+          },
+          {
+            "id": "JTL_103",
+            "count": 1
+          },
+          {
+            "id": "SEC_207",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sabine Wren, Bargaining on Belief - Origin Tree",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/170780",
+      "deck": {
+        "metadata": {
+          "name": "Sabine Wren, Bargaining on Belief - Origin Tree",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "ASH_006",
+          "count": 1
+        },
+        "base": {
+          "id": "HMW_024",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "HMW_266",
+            "count": 2
+          },
+          {
+            "id": "LOF_100",
+            "count": 3
+          },
+          {
+            "id": "ASH_028",
+            "count": 2
+          },
+          {
+            "id": "SEC_098",
+            "count": 3
+          },
+          {
+            "id": "JTL_078",
+            "count": 2
+          },
+          {
+            "id": "LOF_046",
+            "count": 3
+          },
+          {
+            "id": "SEC_094",
+            "count": 3
+          },
+          {
+            "id": "HMW_075",
+            "count": 3
+          },
+          {
+            "id": "JTL_053",
+            "count": 2
+          },
+          {
+            "id": "ASH_056",
+            "count": 1
+          },
+          {
+            "id": "LAW_168",
+            "count": 2
+          },
+          {
+            "id": "HMW_035",
+            "count": 3
+          },
+          {
+            "id": "HMW_142",
+            "count": 3
+          },
+          {
+            "id": "JTL_096",
+            "count": 3
+          },
+          {
+            "id": "LOF_045",
+            "count": 3
+          },
+          {
+            "id": "SEC_078",
+            "count": 3
+          },
+          {
+            "id": "ASH_077",
+            "count": 2
+          },
+          {
+            "id": "LOF_044",
+            "count": 2
+          },
+          {
+            "id": "ASH_062",
+            "count": 2
+          },
+          {
+            "id": "JTL_111",
+            "count": 3
+          }
+        ],
+        "sideboard": [
+          {
+            "id": "JTL_112",
+            "count": 2
+          },
+          {
+            "id": "HMW_078",
+            "count": 2
+          },
+          {
+            "id": "ASH_090",
+            "count": 2
+          },
+          {
+            "id": "ASH_078",
+            "count": 2
+          },
+          {
+            "id": "ASH_135",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "name": "I got a bad feeling about this",
+      "author": "sw-unlimited-db.com",
+      "sourceUrl": "https://sw-unlimited-db.com/decks/172007",
+      "deck": {
+        "metadata": {
+          "name": "I got a bad feeling about this",
+          "author": "sw-unlimited-db.com (tournament list)"
+        },
+        "leader": {
+          "id": "HMW_003",
+          "count": 1
+        },
+        "base": {
+          "id": "HMW_033",
+          "count": 1
+        },
+        "deck": [
+          {
+            "id": "LAW_097",
+            "count": 3
+          },
+          {
+            "id": "HMW_064",
+            "count": 3
+          },
+          {
+            "id": "HMW_059",
+            "count": 3
+          },
+          {
+            "id": "HMW_197",
+            "count": 3
+          },
+          {
+            "id": "HMW_062",
+            "count": 3
+          },
+          {
+            "id": "HMW_089",
+            "count": 3
+          },
+          {
+            "id": "HMW_200",
+            "count": 2
+          },
+          {
+            "id": "ASH_042",
+            "count": 1
+          },
+          {
+            "id": "ASH_048",
+            "count": 3
+          },
+          {
+            "id": "HMW_057",
+            "count": 2
+          },
+          {
+            "id": "HMW_202",
+            "count": 2
+          },
+          {
+            "id": "HMW_068",
+            "count": 2
+          },
+          {
+            "id": "ASH_053",
+            "count": 2
+          },
+          {
+            "id": "HMW_207",
+            "count": 3
+          },
+          {
+            "id": "HMW_100",
+            "count": 3
+          },
+          {
+            "id": "HMW_071",
+            "count": 3
+          },
+          {
+            "id": "JTL_043",
+            "count": 3
+          },
+          {
+            "id": "HMW_097",
+            "count": 3
+          },
+          {
+            "id": "SEC_038",
+            "count": 3
+          }
+        ],
+        "sideboard": []
+      }
+    }
+  ],
+  "excluded": [
+    {
+      "sourceUrl": "https://sw-unlimited-db.com/decks/172090",
+      "reason": "main deck totals 60, expected 50"
+    }
+  ]
+}

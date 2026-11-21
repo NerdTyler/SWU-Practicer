@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "name": "Darth Vader \u2014 Coaxium Mine",
+    "author": "Tyler Berberian"
+  },
+  "leader": {
+    "id": "LAW_011",
+    "count": 1
+  },
+  "base": {
+    "id": "LAW_021",
+    "count": 1
+  },
+  "deck": [
+    {
+      "id": "LAW_253",
+      "count": 1
+    },
+    {
+      "id": "LAW_162",
+      "count": 1
+    },
+    {
+      "id": "LAW_051",
+      "count": 1
+    },
+    {
+      "id": "LAW_249",
+      "count": 2
+    },
+    {
+      "id": "LAW_173",
+      "count": 1
+    },
+    {
+      "id": "LAW_152",
+      "count": 1
+    },
+    {
+      "id": "LAW_259",
+      "count": 3
+    },
+    {
+      "id": "LAW_056",
+      "count": 1
+    },
+    {
+      "id": "LAW_189",
+      "count": 1
+    },
+    {
+      "id": "JTL_067",
+      "count": 1
+    },
+    {
+      "id": "LAW_202",
+      "count": 1
+    },
+    {
+      "id": "JTL_258",
+      "count": 1
+    },
+    {
+      "id": "LAW_258",
+      "count": 1
+    },
+    {
+      "id": "JTL_159",
+      "count": 1
+    },
+    {
+      "id": "JTL_248",
+      "count": 1
+    },
+    {
+      "id": "JTL_132",
+      "count": 1
+    },
+    {
+      "id": "LAW_153",
+      "count": 1
+    },
+    {
+      "id": "LAW_264",
+      "count": 1
+    },
+    {
+      "id": "LAW_155",
+      "count": 1
+    },
+    {
+      "id": "LAW_190",
+      "count": 1
+    },
+    {
+      "id": "LAW_160",
+      "count": 1
+    },
+    {
+      "id": "LOF_162",
+      "count": 1
+    },
+    {
+      "id": "LAW_038",
+      "count": 1
+    },
+    {
+      "id": "LAW_129",
+      "count": 1
+    },
+    {
+      "id": "LAW_164",
+      "count": 1
+    },
+    {
+      "id": "JTL_065",
+      "count": 1
+    },
+    {
+      "id": "LAW_154",
+      "count": 1
+    },
+    {
+      "id": "LAW_135",
+      "count": 1
+    },
+    {
+      "id": "LOF_085",
+      "count": 1
+    },
+    {
+      "id": "LAW_151",
+      "count": 1
+    },
+    {
+      "id": "LAW_175",
+      "count": 1
+    },
+    {
+      "id": "LAW_166",
+      "count": 2
+    },
+    {
+      "id": "LAW_196",
+      "count": 2
+    },
+    {
+      "id": "JTL_119",
+      "count": 1
+    },
+    {
+      "id": "LAW_260",
+      "count": 1
+    },
+    {
+      "id": "LAW_177",
+      "count": 1
+    },
+    {
+      "id": "LAW_171",
+      "count": 1
+    },
+    {
+      "id": "LAW_172",
+      "count": 1
+    },
+    {
+      "id": "LAW_107",
+      "count": 1
+    },
+    {
+      "id": "LAW_123",
+      "count": 2
+    },
+    {
+      "id": "LAW_157",
+      "count": 1
+    },
+    {
+      "id": "JTL_237",
+      "count": 1
+    },
+    {
+      "id": "LAW_128",
+      "count": 1
+    },
+    {
+      "id": "JTL_137",
+      "count": 1
+    }
+  ],
+  "sideboard": []
+}
