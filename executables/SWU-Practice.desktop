@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=SWU Practice
+GenericName=Card Game Practice
+Comment=Offline Star Wars: Unlimited practice against a bot
+Exec=sh -c "d=\$(dirname \"$1\"); exec \"\$d/swu-forge-app/SWU-Practice\"" _ %k
+Icon=application-x-executable
+Terminal=false
+Categories=Game;CardGame;
+Keywords=star wars;unlimited;karabast;practice;
