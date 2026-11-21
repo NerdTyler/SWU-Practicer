@@ -14,22 +14,31 @@ repository itself):
 - **Linux (x86-64)** — `swu-practicer-linux.zip`: unzip and double-click
   `SWU-Practice.desktop` (or the `SWU-Practice` program inside
   `swu-forge-app`). Tested end-to-end. Works on Arch, Fedora, Mint, Ubuntu
-  and other distros with glibc 2.28+; on a Steam Deck, use Desktop Mode.
+  and other distros with glibc 2.28+. On a Steam Deck it also runs in
+  Game Mode — see the Steam Deck section below, and **read its disclaimer
+  before your first launch**.
 - **Windows** — `swu-practicer-windows.zip`: unzip and double-click
   `SWU-Practice.exe` inside `swu-forge-app`. Assembled and verified, but not
   yet run-tested on real Windows hardware.
 
 ## Steam Deck
 
-> **Disclaimer for Steam Deck users:** use **Desktop Mode** — Game Mode
-> can't run this, because the game opens in a web browser. Everything
-> installs inside its own folder in your home directory: it never touches
-> SteamOS system files, needs no sudo and no read-only unlock, and survives
-> SteamOS updates. The first run needs Wi-Fi for the one-time install.
-> Tested end-to-end on desktop Linux; a physical Steam Deck run is still
-> pending, so the first Deck install doubles as a field test — if something
-> misbehaves, the launcher writes a `launcher.log` next to itself that says
-> exactly where it stopped.
+> **Disclaimer for Steam Deck users: launch in Desktop Mode FIRST.**
+> The one-time first run downloads dependencies and builds the game
+> server, and that first launch must happen in Desktop Mode (expect
+> 10+ minutes, and it needs Wi-Fi). Do not make your first launch from
+> Game Mode — you would be staring at a loading screen with no way to
+> see what it is doing. After that first Desktop Mode launch, play in
+> **Game Mode**: add `swu-forge-app/SWU-Practice-GameMode.sh` to Steam
+> as a Non-Steam game and it starts the stack in the background and
+> opens the game full-screen from your library (see `STEAMDECK.md`
+> for the full steps). Everything installs inside its own folder in
+> your home directory: it never touches SteamOS system files, needs
+> no sudo and no read-only unlock, and survives SteamOS updates.
+> Tested end-to-end on desktop Linux; a physical Steam Deck run is
+> still pending, so the first Deck install doubles as a field test —
+> if something misbehaves, the launcher writes a `launcher.log` next
+> to itself that says exactly where it stopped.
 
 ## Playing
 
