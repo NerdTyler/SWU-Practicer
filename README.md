@@ -9,13 +9,13 @@ No account, no server, no internet needed after the one-time first-run install.
 The playable packages are on the **Releases** page (they are too large for the
 repository itself):
 
-- **Mac** — `swu-practice-mac-installer.zip`: double-click installer that puts
+- **Mac** — `swu-practicer-mac.zip`: double-click installer that puts
   the app in your Applications folder. Verified working.
-- **Linux (x86-64)** — `swu-practice-linux.zip`: unzip and double-click
+- **Linux (x86-64)** — `swu-practicer-linux.zip`: unzip and double-click
   `SWU-Practice.desktop` (or the `SWU-Practice` program inside
   `swu-forge-app`). Tested end-to-end. Works on Arch, Fedora, Mint, Ubuntu
   and other distros with glibc 2.28+; on a Steam Deck, use Desktop Mode.
-- **Windows** — `swu-practice-windows.zip`: unzip and double-click
+- **Windows** — `swu-practicer-windows.zip`: unzip and double-click
   `SWU-Practice.exe` inside `swu-forge-app`. Assembled and verified, but not
   yet run-tested on real Windows hardware.
 
