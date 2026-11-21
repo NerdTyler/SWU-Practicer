@@ -19,6 +19,18 @@ repository itself):
   `SWU-Practice.exe` inside `swu-forge-app`. Assembled and verified, but not
   yet run-tested on real Windows hardware.
 
+## Steam Deck
+
+> **Disclaimer for Steam Deck users:** use **Desktop Mode** — Game Mode
+> can't run this, because the game opens in a web browser. Everything
+> installs inside its own folder in your home directory: it never touches
+> SteamOS system files, needs no sudo and no read-only unlock, and survives
+> SteamOS updates. The first run needs Wi-Fi for the one-time install.
+> Tested end-to-end on desktop Linux; a physical Steam Deck run is still
+> pending, so the first Deck install doubles as a field test — if something
+> misbehaves, the launcher writes a `launcher.log` next to itself that says
+> exactly where it stopped.
+
 ## Playing
 
 - **Quick Game** drops you straight into a match against the bot. Use the
